@@ -1,0 +1,21 @@
+p{
+    color: pink;
+    background-color: black;
+    font-size: 49mm;
+}
+.CSE3{
+    color: red;
+    background-color: yellow;
+    font-size: 39mm;
+}
+.ABES{
+    color: rgb(18, 17, 17);
+    background-color: rgb(246, 3, 108);
+    font-size: 29mm;
+}
+#ID{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 19mm;
+    text-align: center;
+}
